@@ -36,7 +36,7 @@ ms.lasthandoff: 02/13/2018
     - 現在，您已了解不同類型的 Azure 計算選項，接下來請挑選 PaaS Web 應用程式或 IaaS 虛擬機器，作為您在 Azure 中的第一項資源：
     - PaaS：平台即服務簡介：
         - **作法：**[將基本 Web 應用程式部署到 Azure](/azure/app-service/app-service-web-overview?toc=/azure/architecture/cloud-adoption-guide/toc.json)
-        - **指引：**將[基本 Web 應用程式](/azure/architecture/reference-architectures/app-service-web-app/basic-web-app?toc=/azure/architecture/cloud-adoption-guide/toc.json)部署到 Azure 的實證作法
+        - **指引：**[將基本 Web 應用程式](/azure/architecture/reference-architectures/app-service-web-app/basic-web-app?toc=/azure/architecture/cloud-adoption-guide/toc.json)部署到 Azure 的實證作法
     - IaaS：虛擬網路簡介：
         - **說明：**[Azure 虛擬網路](/azure/virtual-network/virtual-networks-overview?toc=/azure/architecture/cloud-adoption-guide/toc.json)
         - **作法：**[使用入口網站將虛擬網路部署到 Azure](/azure/virtual-network/virtual-networks-create-vnet-arm-pportal?toc=/azure/architecture/cloud-adoption-guide/toc.json)
